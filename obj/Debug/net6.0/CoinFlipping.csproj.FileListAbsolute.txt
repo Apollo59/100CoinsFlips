@@ -1,0 +1,15 @@
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\bin\Debug\net6.0\CoinFlipping.exe
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\bin\Debug\net6.0\CoinFlipping.deps.json
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\bin\Debug\net6.0\CoinFlipping.runtimeconfig.json
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\bin\Debug\net6.0\CoinFlipping.dll
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\bin\Debug\net6.0\ref\CoinFlipping.dll
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\bin\Debug\net6.0\CoinFlipping.pdb
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.csproj.AssemblyReference.cache
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.AssemblyInfoInputs.cache
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.AssemblyInfo.cs
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.csproj.CoreCompileInputs.cache
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.dll
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\ref\CoinFlipping.dll
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.pdb
+C:\Users\jackm\Documents\Coding Projects\CSharp\CoinFlipping\obj\Debug\net6.0\CoinFlipping.genruntimeconfig.cache
