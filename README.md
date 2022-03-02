@@ -4,4 +4,4 @@ Using Creative Commons Lisense.
 
 Use it how ever you want just credit me.
 
-Tip 20% after tax.
+Tip after tax.
